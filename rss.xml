@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[Ivan Nava]]></title>
         <description><![CDATA[Ivan Nava]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/ivan-nava/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 05 Jan 2016 17:21:33 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Tue, 05 Jan 2016 17:38:47 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/ivan-nava/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/c6c791d0-0788-4b53-919e-3c1d39311366.jpg">]]></description>
+            <link>https://thegrid.ai/ivan-nava/3bd74a15-4e65-4b4c-9e4d-037c6a992601/index.html</link>
+            <guid isPermaLink="false">3bd74a15-4e65-4b4c-9e4d-037c6a992601</guid>
+            <pubDate>Tue, 05 Jan 2016 17:38:46 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/90bca91b-1a74-43bc-bbdd-c6226a71e634.jpg">]]></description>
-            <link>undefined5625ec1e-d263-4e40-8031-26b6a0709b6a/index.html</link>
+            <link>https://thegrid.ai/ivan-nava/5625ec1e-d263-4e40-8031-26b6a0709b6a/index.html</link>
             <guid isPermaLink="false">5625ec1e-d263-4e40-8031-26b6a0709b6a</guid>
             <pubDate>Tue, 05 Jan 2016 17:21:11 GMT</pubDate>
         </item>
