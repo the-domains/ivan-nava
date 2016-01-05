@@ -1,0 +1,28 @@
+name: Ivan Nava
+favicon: null
+layout_spectrum: 0.7624554578214884
+typography_spectrum: 0.38759357179515064
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#3C493F'
+    - '#7E8D85'
+    - '#B3BFB8'
+    - '#F0F7F4'
+    - '#A2E3C4'
+  brandStrength: 0.6172750804107636
+  lightness: 0.36937012150883675
+  saturation: 0.6611121671739966
+  rhythmicContrast: 0.42522459337487817
+purpose: []
